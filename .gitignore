@@ -1,0 +1,7 @@
+.env
+vendor
+storage/clockwork
+node_modules
+public/build
+.htaccess
+migration/*
